@@ -1,0 +1,16 @@
+streamlit
+fastapi
+uvicorn[standard]
+langchain-core
+langchain-community
+langchain-google-genai
+google-generativeai
+pandas
+matplotlib
+seaborn
+scikit-learn
+scipy
+statsmodels
+pillow
+python-multipart
+pydantic
